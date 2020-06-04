@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 4: June 4, 2020
+
+**Today's Progress**: Continued working on a page for Diddy Kong. I went back through a few kew tutorials in FreeCodecamp. Added styles, and an image. Progressed on Basic CSS (22% complete).
+
+**Thoughts**: Visual Studio is a really neat program. It predicts what I want to do, and automatically creates </> when I make an element. I am happy to be making something on my own, and using what I learned with a project. Otherwise, I would have forgotten literally everything by now (and it's only been 4 days).
+
 ### Day 3: June 3, 2020
 
 **Today's Progress**: Minimal. Struggled finding a way to write HTML on my computer. Attempted using Brackets, but then discovered that I can use Microsoft Visual Studio through my school (or even NotePad). Started making a page for Diddy Kong.
