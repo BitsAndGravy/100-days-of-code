@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 5: June 9, 2020
+
+**Today's Progress**: Worked toward completing Basic CSS. About 90% complete.
+
+**Thoughts**: I feel empowered knowing how colors work. They are no longer a bunch of meaningless numbers and letters - ok, they still are to a point, but I at least understand what it means. It was a lot of fun seeing all of the different things you can do with CSS - the penguin example on freeCodeCamp was intriguing. I hope to create my own artwork on CSS like that!
+
 ### Day 4: June 4, 2020
 
 **Today's Progress**: Continued working on a page for Diddy Kong. I went back through a few kew tutorials in FreeCodecamp. Added styles, and an image. Progressed on Basic CSS (22% complete).
