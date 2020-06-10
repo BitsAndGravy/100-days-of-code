@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+### Day 6: June 10, 2020
+**Today's Progress**: Completed Basic CSS. Working on Applid Visual Design (37% complete).
+
+**Thoughts**: It is starting to feel as thought I am just working through an instruction manual. I am just checking off a whole bunch of items off of a list. I would really enjoy working on a guided project to show me how these things are used. The best way to learn is to imitate people who know more than me and can teach me something through a project. It doesn't have to be a meaningful project; I would be fine with working on something silly as long as I learned how to use it.
+
 ### Day 5: June 9, 2020
 
 **Today's Progress**: Worked toward completing Basic CSS. About 90% complete.
